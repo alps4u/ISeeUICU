@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forecasting 7-Day ICU Bed Demand via Patient Deterioration Modeling
 IE7275 Group A project — *I See You, ICU*.
 Authors: Ka Won Cho, Minh Tuong Le, Shanti Ram Pokhrel.
@@ -142,3 +143,7 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/02_pca.ipynb
 
 Johnson, A., Bulgarelli, L., Pollard, T., Gow, B., Moody, B., Horng, S., Celi, L. A., & Mark, R.
 (2024). *MIMIC-IV* (version 3.1). PhysioNet. https://doi.org/10.13026/kpb9-mt58
+=======
+# ISeeYouICU
+This is the repository for IE7275 GroupA project: I see you, ICU
+>>>>>>> 18509ba7a8b137cef0c12c671cf545d33afdbe40
